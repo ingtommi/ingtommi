@@ -23,7 +23,11 @@ A little bit more about me:
 * 🧐 I'm curious and enterprising
 * 🔓 I'm deeply interested in cybersecurity
 
-## Github Stats
-<div align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingtommi&hide_border=true&layout=compact" style="width: 100%"/>
-</div> 
+## Toolbox
+
+* **Languages:** C, Java, Matlab, Arduino
+* **Tools:** KiCad, Multisim, Wireshark
+
+## Github Stats 
+<img src="https://github-readme-stats.vercel.app/api/?username=ingtommi&hide_border=true&theme=dark&layout=compact&show_icons=true&hide=prs," style="width: 50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingtommi&hide_border=true&layout=compact" style="width: 50%"/>
