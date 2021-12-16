@@ -14,7 +14,7 @@ I'm also a member of [Polimarche Racing Team](https://www.polimarcheracingteam.c
 What I love doing:
 
 * 💻 Everything related to information technology
-* 📝 Learning new things and acquire skill
+* 📝 Learning new things and acquire skills
 * ⚽ Football and many other sports
 * ✈️ Travels
 
