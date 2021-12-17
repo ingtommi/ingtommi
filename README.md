@@ -11,7 +11,7 @@ I am **Tommaso Fava**, an italian student attending a bachelor degree in *Electr
 
 I'm also a member of [Polimarche Racing Team](https://www.polimarcheracingteam.com/it/), the university *Formula Student* team where I'm developing the entire [TSAL](https://github.com/ingtommi/TSAL) pcb board required for the electric racing car 🏎️ 🔋
 
-What I love doing:
+What I love:
 
 * 💻 Everything related to information technology
 * 📝 Learning new things and acquire skills
