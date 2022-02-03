@@ -25,7 +25,7 @@ A little bit more about me:
 
 ## Toolbox
 
-* **Languages:** C, Java, Matlab, Arduino
+* **Languages:** C, Java, Python Matlab
 * **Tools:** KiCad, Multisim, Wireshark, LaTeX
 
 ## Github Stats 
