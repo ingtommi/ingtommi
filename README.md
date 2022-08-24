@@ -7,7 +7,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a><br><br>
 
-I am **Tommaso Fava**, an italian student attending a bachelor degree in *Electronic Engineering* at [UnivPM](https://www.univpm.it/Entra/) 💻 🔌 📚 and currently experiencing an Erasmus exchange at [Hochschule Augsburg](https://www.hs-augsburg.de/) 🇩🇪
+I am **Tommaso Fava**, an italian student attending a master degree in *Electronic Engineering* at [UnivPM](https://www.univpm.it/Entra/) 💻 🔌 📚.  During my bachelor I experienced an Erasmus exchange at [Hochschule Augsburg](https://www.hs-augsburg.de/) 🇩🇪
 
 I'm also a member of [Polimarche Racing Team](https://www.polimarcheracingteam.com/it/), the university *Formula Student* team where I'm developing the entire [TSAL](https://github.com/ingtommi/TSAL) pcb board required for the electric racing car 🏎️ 🔋
 
