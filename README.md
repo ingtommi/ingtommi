@@ -25,8 +25,8 @@ A little bit more about me:
 
 ## Toolbox
 
-* **Languages:** C, Java, Python, Matlab
-* **Tools:** KiCad, Multisim, Wireshark, LaTeX
+* **Languages:** C, Java, Python, Assembly, Matlab, LaTeX
+* **Tools:** KiCad, Multisim, Wireshark
 
 ## Github Stats 
 <img src="https://github-readme-stats.vercel.app/api/?username=ingtommi&hide_border=true&theme=dark&layout=compact&show_icons=true&hide=prs," style="width: 50%"/>
