@@ -31,4 +31,3 @@ A little bit more about me:
 
 ## Github Stats 
 <img src="https://github-readme-stats.vercel.app/api/?username=ingtommi&hide_border=true&theme=dark&layout=compact&show_icons=true&hide=prs," style="width: 50%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingtommi&hide_border=true&layout=compact" style="width: 50%"/>
