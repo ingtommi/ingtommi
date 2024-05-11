@@ -21,10 +21,9 @@ What I love:
 A little bit more about me:
 
 * 🧐 I'm curious and enterprising
-* 🔓 I'm deeply interested in embedded systems and security
+* 🔓 I'm deeply interested in embedded systems, machine learning and security
 
 ## Toolbox
 
 * **OS:** Windows, Linux
-* **Languages:** Python, Assembly, VHDL, C, Java, Matlab, LaTeX
-* **Tools:** Vivado, KiCad, LTSpice, Wireshark
+* **Languages:** C, Python, Assembly, VHDL, Java, Matlab
