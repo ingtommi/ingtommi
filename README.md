@@ -9,7 +9,7 @@
 
 I am **Tommaso Fava**, an italian student attending a master degree in *Electronics Engineering* at [UnivPM](https://www.univpm.it/Entra/) 💻 🔌 📚.  During my career I experienced an Erasmus exchange at [Hochschule Augsburg](https://www.hs-augsburg.de/) and [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/).
 
-I've been in charge of the *High Voltage Division* at [Polimarche Racing Team](https://www.polimarcheracingteam.com/it/), our university's *Formula Student Electric* team 🏎️ 🔋. Morever, I explored the field of cybersecurity by taking part in [CyberChallenge.IT](https://cyberchallenge.it/).
+I've been in charge of the *High Voltage Division* at [Polimarche Racing Team](https://www.polimarcheracingteam.com/it/), our university's *Formula Student Electric* team 🏎️ 🔋. I then explored the field of cybersecurity by taking part in [CyberChallenge.IT](https://cyberchallenge.it/), but today I'm much more interested in embedded AI.
 
 What I love:
 
