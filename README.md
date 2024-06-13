@@ -9,21 +9,9 @@
 
 I am **Tommaso Fava**, an italian student attending a master degree in *Electronics Engineering* at [UnivPM](https://www.univpm.it/Entra/) 💻 🔌 📚.  During my career I experienced an Erasmus exchange at [Hochschule Augsburg](https://www.hs-augsburg.de/) and [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/).
 
-I've been in charge of the *High Voltage Division* at [Polimarche Racing Team](https://www.polimarcheracingteam.com/it/), our university's *Formula Student Electric* team 🏎️ 🔋. I then explored the field of cybersecurity by taking part in [CyberChallenge.IT](https://cyberchallenge.it/), but today I'm much more interested in embedded AI.
-
-What I love:
-
-* 💻 Everything related to electronics and information technology
-* 📝 Learning new things and acquire skills
-* ⚽ Football and many other sports
-* ✈️ Travelling
-
-A little bit more about me:
-
-* 🧐 I'm curious and enterprising
-* 🔓 I'm deeply interested in embedded systems, machine learning and security
+I've been in charge of the *High Voltage Division* at [Polimarche Racing Team](https://www.polimarcheracingteam.com/it/), our university's *Formula Student Electric* team 🏎️ 🔋. I then explored the field of cybersecurity by taking part in [CyberChallenge.IT](https://cyberchallenge.it/), but today I'm much more interested in **embedded AI**.
 
 ## Toolbox
 
 * **OS:** Windows, Linux
-* **Languages:** C, Python, Assembly, VHDL, Java, Matlab
+* **Languages:** C, Python, Assembly, VHDL
