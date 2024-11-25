@@ -14,4 +14,4 @@ I've also been in charge of the *High Voltage Division* at [Polimarche Racing Te
 ## Toolbox
 
 * **OS:** Windows, Linux
-* **Languages:** C, Python, Assembly, VHDL
+* **Languages:** C, C++, Python, Assembly, VHDL
